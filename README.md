@@ -31,15 +31,15 @@ THEN the password is either displayed in an alert or written to the page
 # Installation
 Please use VSCode to open this HTML & CSS file. There is JavaScript in use in this page and generates the password for your use.
 
-Support
+# Support
 Please feel free to message me on GitHub for any questions!
 
-Roadmap
+# Roadmap
 This is just a homework assignment for a class and updates most likely will not be added. If anything this should help serve as a guide for you own creation.
 
-Contributing
+# Contributing
 This is not open to contributions.
 
-Author
+# Author
 Dean Anderson - War Eagle
 
